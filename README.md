@@ -5,4 +5,4 @@ Visit the official MEAIE Important Information site:
 
 ---
 
-![Healthcare Professional](https://upload.wikimedia.org/wikipedia/commons/6/6d/Doctor_consultation.jpg)
+![Healthcare Professional](https://raw.githubusercontent.com/playerauth/media-assets/refs/heads/main/meaie.png)
