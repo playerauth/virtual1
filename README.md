@@ -1,4 +1,4 @@
-# MEAIE
+# MEAIE™
 
 Visit the official MEAIE Important Informations Site:  
 [Cilick Here To Visit MEAIE Informatios Site](https://maie.example.com)
