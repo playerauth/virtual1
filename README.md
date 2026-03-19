@@ -5,4 +5,4 @@ Visit the official MEAIE Important Informations Site:
 
 ---
 
-![Healthcare Professional](https://raw.githubusercontent.com/playerauth/media-assets/refs/heads/main/meaie.png)
+![Healthcare Professional](https://media-assets.playerauth7.workers.dev/meaie.png)
